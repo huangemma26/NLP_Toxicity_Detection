@@ -5,4 +5,4 @@ This repo contains the code for topic modeling analysis and custom trained word 
 Included in this repository is:
 
 * **Powerpoint.pdf** -- Powerpoint overview of the project
-* **Topic_Modeling.ipynb** -- Notebook containing Reddit post topic models and analysis
+* **Topic_Modeling.ipynb** -- Notebook containing topic models on Reddit posts and analysis using the topics
